@@ -1,0 +1,6 @@
+# Fitness
+
+The website about fitness
+
+## Стек технологий
+- HTML/CSS/JS
